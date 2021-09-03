@@ -1,0 +1,26 @@
+body {
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    background-image: linear-gradient(to right, rgb(0, 255, 42), rgb(0, 218, 247));
+}
+
+#status,
+#number_of_objects {
+    font-size: 18px;
+}
+
+canvas {
+    box-shadow: 5px 5px 5px rgb(136, 136, 136);
+    border-radius: 10px;
+    margin-top: 200px;
+}
+
+span {
+    color: rgb(43, 43, 43);
+    font-size: 13px;
+}
